@@ -28,15 +28,4 @@ Dalam repositori ini, fokus pembahasan dan implementasi kode meliputi:
 
 ---
 
-## 📁 Struktur Repositori
 
-```text
-.
-├── notebooks/
-│   ├── 01_train_test_split_&_cv.ipynb      # Konsep pembagian data & Cross Validation
-│   ├── 02_handling_missing_values.ipynb    # Eksperimen SimpleImputer
-│   ├── 03_categorical_encoding.ipynb       # OneHotEncoder & OrdinalEncoder
-│   └── 04_scikit_learn_pipeline.ipynb      # End-to-end Pipeline & Evaluation
-├── data/                                   # Sample dataset dari Kaggle
-├── README.md
-└── requirements.txt
